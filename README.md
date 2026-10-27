@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dynamsoft Web TWAIN is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.dynamsoft.com/
+Dynamsoft provides SDKs for document capture, barcode reading, and MRZ scanning across web, mobile, and desktop platforms. Their Dynamsoft Web TWAIN product enables developers to integrate scanning and barcode capabilities directly into web applications using JavaScript. The company offers trial licenses, detailed developer documentation, and a range of SDKs for various use cases such as mobile document scanning, barcode reading, and server-side processing.
+
+**Areas:** Company · SDK · Document-Capture · Barcode · MRZ · Web
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.dynamsoft.com/)
+- [Documentation](https://www.dynamsoft.com/docs/)
+- [Pricing](https://www.dynamsoft.com/purchase-center/)
+- [Support](https://www.dynamsoft.com/support/livehelp/)
+- [Changelog](https://www.dynamsoft.com/panorama/release-notes/)
+- [Blog](https://www.dynamsoft.com/blog/)
+- [Security](https://www.dynamsoft.com/company/security/)
+- [Privacy policy](https://www.dynamsoft.com/privacy-statement/)
+- [GitHub](https://github.com/dynamsoft/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/dynamsoft/](https://apis.io/providers/dynamsoft/).
